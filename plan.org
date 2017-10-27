@@ -5,38 +5,40 @@
 ** Issues: McGurks, Ames Room etc
 ** Edge Filtering
 * 9:30-10:30: Image Formation (60 mins): SM
-** Intro to numpy
 ** Homogenous Coordinates
-** Tranformations
-** iPython with transformations (given square, do all transformations) + Given image and H learn to warp it
-** Excercise 1: Projective Distortion (Audbrey Hepburn transformation to wall image)
+** Transformations
+** Intro to numpy
+** Exercise 1: iPython with transformations (given square, do all transformations) + Given image and H learn to warp it
+** Exercise 2: Projective Distortion (Audbrey Hepburn transformation to wall image)
 ** Pin Hole Camera
 ** Camera with Lens and various parts of camera
-** Intrinsic and Extrinsic Parameters
-** Calibration ?
-* 10:30-11:15am: Computer Vision and Image Processing (45 mins): SM & DK
+** Intrinsic and Extrinsic Parameters and Calibration
+** Queries / Buffer (10 min)
+* 10:30-11:00am: Computer Vision and Image Processing (30 mins): SM
 ** Image: RGB etc
-** Filtering: Simple Filters and using numpy
+** Filtering: Simple Filters and using numpy (should be updated)
 ** Edge Filters, Corner Filters etc
-** Excercise 2: Image stitching
+** Excercise 3: Image stitching
+* Break 11:00-11:15 (15 mins)
+* 11:15-11:45am: Computer Vision and Image Processing (30 mins): DK
 ** Thresholding, Adaptive Thresholding
 ** Contour Detection etc
-** Excercise 3: Object Detection Problem: General statement
+** Object Detection Problem: General statement
 ** Limited version of problem:
 ** Image processing on Binary Nuts and Bolts
-* 10:15am-11:00am: Computer Vision with simple thresholds (60mins): DK
+* 11:45am-12:45am: Computer Vision with simple thresholds (60mins): DK
 ** Ex3: Area Calculation, Compactness etc
 ** Ex3: If classifier, slight extension hand crafted line
 ** Data for which above wont work
 ** Decision Tree Classifiers
 ** Ex4: Show decision tree based classifier
-* 12:15-1:15pm: Machine Learning (30 mins) (Connection to Adaboost and then
-  to SVM): DK
+* 12:45-1:15pm:  Machine Learning (30 mins) (Connection to Adaboost and then to SVM): DK
 ** How do you come up with good line classifier
 ** Large Margin Classifier (Margin: Func margin & geometric margin)
-** Kernel Trick
 ** Ex5: Do with SVM (Ask interesting questions about this)
-** 
+** Things to be mentioned
+*** Kernel Trick
+* 1:15-2:00pm: Lunch (45 mins)
 * 2:00-3:30pm: Deep Learning (90 mins): SP
 ** Limitation of Simple CV and ML
 ** History and Evolution of DL (story telling)
@@ -44,8 +46,9 @@
 ** Deep learning basics (activation functions, etc)
 ** Introduction to CNN (layers and how the learn with some visualizations)
 ** Other architectures & networks (RNN, etc) with examples
-** 
-* 3:30-4:15pm: Applications of DL & Example DL: SP & DK
+** Queries and Buffer (10 mins)
+* 3:30-3:45pm: Break (15 mins)
+* 3:45-4:30pm: Applications of DL & Example DL (45 mins): SP & DK
 ** STN:
 ** Residual Nets
 ** Application examples
@@ -53,7 +56,7 @@
 ** RNN's
 ** Next Level Applications
 *** Neural Turing Machines
-* 4:30-5:00pm: How to approach a problem ? (30 mins): SMK
+* 4:30-5:00pm: How to approach a  problem ? (30 mins): SMK
 ** Disciplined Neural Network Training
 ** Debugging: Visualization etc
 ** Converting Business Problem to CV Problem
