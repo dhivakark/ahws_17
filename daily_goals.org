@@ -1,0 +1,46 @@
+* Sat
+** DK
+** SP
+** SM: Ver0.1 ipython (Geo Trans, Proj Dist, Intro numpy/opencv, Stitching)
+** SMK: Update SP's DL presentation
+* Sun
+** DK: 
+** SP: Ver 0.1: OR Gate using McCulloch Pitts Model 
+       Ver 0.1: Nuts and Bolts using CNN: Update CNN construction as per Bargava's example
+       Ver 0.1: Style Transfer
+       Ver 0.1: 
+       Look at Martin Andrews DeepLearning Repo: https://github.com/mdda/deep-learning-workshop/tree/master/notebooks
+** SM: Move pres to main pres and initial formatting (1hr 3D) + 
+       view3Dscene, SLAM, Ver 0.1: JS, ARjs Demos:3D Panorama, Augmented JS
+** SMK
+* Mon
+** DK: Initial Pres Flow + Remove extra slides and compact
+       20 slides/hr
+** SP: 
+** SM: Review SFM/SVR Criminisi's paper & Stereo + Reconstruction
+       Read: Vanishing pt based Camera Calibration, Extra Slides
+** SMK: Update SM's and SP's updated pres (evening)
+* Tue
+** DK: v0.1 of Notebook Decision Tree Classifier + Start as though you are
+   walking through it as, Add Visualization, Add questions for them to ponder
+   (classification error vs training size etc)
+** SP: Update pres as per SMK's update
+** SM: Update pres & ipython notebooks as per SMK's update
+** SMK
+* Wed (In person meeting on Wednesday)
+** DK: Feedback from Sumod on Tues + Do a mock at Soliton (Have notes ready
+   as well and record and send to all)
+** SP
+** SM
+** SMK
+* Thurs
+** DK
+** SP
+** SM
+** SMK
+* Fri
+** DK
+** SP
+** SM
+** SMK
+* Sat

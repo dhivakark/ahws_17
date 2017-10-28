@@ -1,10 +1,10 @@
-* 9:00-9:30am: Motivation (30 Mins) : SMK
+* 9:30-10:00am: Motivation (30 Mins) : SMK
 ** Current success examples: 15 mins
 ** Biology, neurons, synapses
 ** Amazing:
 ** Issues: McGurks, Ames Room etc
 ** Edge Filtering
-* 9:30-10:30: Image Formation (60 mins): SM
+* 10:00-11:00: Image Formation (60 mins): SM
 ** Homogenous Coordinates
 ** Transformations
 ** Intro to numpy
@@ -14,31 +14,31 @@
 ** Camera with Lens and various parts of camera
 ** Intrinsic and Extrinsic Parameters and Calibration
 ** Queries / Buffer (10 min)
-* 10:30-11:00am: Computer Vision and Image Processing (30 mins): SM
+* 11:00-11:30am: Computer Vision and Image Processing (30 mins): SM
 ** Image: RGB etc
 ** Filtering: Simple Filters and using numpy (should be updated)
 ** Edge Filters, Corner Filters etc
 ** Excercise 3: Image stitching
-* Break 11:00-11:15 (15 mins)
-* 11:15-11:45am: Computer Vision and Image Processing (30 mins): DK
-** Object Detection Problem: General statement
-** Limited version of problem:
+* Break 11:30-11:45 (15 mins)
+* 11:45-12:15am: Computer Vision and Image Processing (30 mins): DK
 ** Thresholding, Adaptive Thresholding
 ** Contour Detection etc
+** Object Detection Problem: General statement
+** Limited version of problem:
 ** Image processing on Binary Nuts and Bolts
-* 11:45am-12:45am: Computer Vision with simple thresholds (60mins): DK
+* 12:15am-1:15am: Computer Vision with simple thresholds (60mins): DK
 ** Ex3: Area Calculation, Compactness etc
 ** Ex3: If classifier, slight extension hand crafted line
 ** Data for which above wont work
 ** Decision Tree Classifiers
 ** Ex4: Show decision tree based classifier
-* 12:45-1:15pm:  Machine Learning (30 mins) (Connection to Adaboost and then to SVM): DK
+* 1:15-1:45pm:  Machine Learning (30 mins) (Connection to Adaboost and then to SVM): DK
 ** How do you come up with good line classifier
 ** Large Margin Classifier (Margin: Func margin & geometric margin)
 ** Ex5: Do with SVM (Ask interesting questions about this)
 ** Things to be mentioned
 *** Kernel Trick
-* 1:15-2:00pm: Lunch (45 mins)
+* 1:45-2:30pm: Lunch (45 mins)
 * 2:00-3:30pm: Deep Learning (90 mins): SP
 ** Limitation of Simple CV and ML
 ** History and Evolution of DL (story telling)
@@ -47,6 +47,46 @@
 ** Introduction to CNN (layers and how the learn with some visualizations)
 ** Other architectures & networks (RNN, etc) with examples
 ** Queries and Buffer (10 mins)
+** Senthils New TOC [52slides: 20-25 slides; 2-3m/slide]
+*** 3: Limitations + Biological Neural Network (simplistic modelling
+    biological neurons: Spiking Neural Models)
+*** 3: Perceptron
+**** Simple Neuron Model, McCulloch Pitts Neuron, Linear Classifier
+**** OR Gates, NAND Gates, XOR Gates ?
+**** Extension: Linear Separability
+*** 3: Multilayer perceptron
+*** 
+*** 
+*** 
+*** 
+*** 
+*** 
+*** 
+** Senthils TOC [52slides: 20-25 slides; 2-3m/slide]
+*** 2: Limitations of existing methods (2)
+*** 9: Introduce perceptron (9 slides) [Need to lot more crisp: 3 slides]
+*** Handon on - building OR gate using single layer perceptron (iPython)
+*** 3: Introduce XOR problem (linear separability problem) and make them think (3 slides)
+    about the necessity of hidden layer
+*** 1: Question them how we can update weights in MLPs and introduce
+    backpropagation
+*** 1: Question them how we can achieve backpropagation in pracitce and
+    introduce gradient descent
+*** 7: Develop a representation for the function that MLPs are learning and 
+    make them think if non-linear functions can be learnt by an MLP. Now
+    introduce activation function as a solution to increase the 
+    representational power of the network
+*** 5: Why NNs fell out of practice and Why are they growing rapidly now
+*** 3: Introduce CNNs 
+*** 6: Discuss various commonly used layers in CNN and the parameters involved
+    in them
+*** 2: Discuss Alexnet architecture and ensure that all of them are able to
+    understand a terminologies in a common architecture
+*** 1: Do Nuts and Bolts classification using CNN
+*** 1+:Introduce other commonly used networks in practice
+*** 1: Do Image captioning using RNNs
+*** 2: End with Visualisation examples 
+
 * 3:30-3:45pm: Break (15 mins)
 * 3:45-4:30pm: Applications of DL & Example DL (45 mins): SP & DK
 ** STN:
