@@ -21,10 +21,10 @@
 ** Excercise 3: Image stitching
 * Break 11:00-11:15 (15 mins)
 * 11:15-11:45am: Computer Vision and Image Processing (30 mins): DK
-** Thresholding, Adaptive Thresholding
-** Contour Detection etc
 ** Object Detection Problem: General statement
 ** Limited version of problem:
+** Thresholding, Adaptive Thresholding
+** Contour Detection etc
 ** Image processing on Binary Nuts and Bolts
 * 11:45am-12:45am: Computer Vision with simple thresholds (60mins): DK
 ** Ex3: Area Calculation, Compactness etc
